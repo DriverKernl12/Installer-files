@@ -1,5 +1,4 @@
 client|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/Driver%20Kernel.exe
 MainModule|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/DriverKernel.dll
 Module|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/Module.dll
-Loader|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/Loader.exe
-Driver|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/robloxDriver.sys
+
