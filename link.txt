@@ -1,5 +1,5 @@
 client|
 MainModule|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/DriverKernel.dll
-Module|
+Module|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/Module.dll
 Loader|
 Driver|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/robloxDriver.sys
