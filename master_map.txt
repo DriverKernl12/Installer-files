@@ -1,2 +1,2 @@
-Loader|
+Loader|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/Loader.exe
 Driver|https://github.com/DriverKernl12/Installer-files/raw/refs/heads/main/robloxDriver.sys
